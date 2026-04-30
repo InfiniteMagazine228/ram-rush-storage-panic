@@ -1,0 +1,14 @@
+{
+  "name": "ram-rush-storage-panic",
+  "version": "0.1.0",
+  "description": "RAM Rush: Storage Panic - HTML5 Android Game",
+  "scripts": {
+    "sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {}
+}
